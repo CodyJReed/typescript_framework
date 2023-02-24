@@ -1,0 +1,10 @@
+9
+91C:\Users\cody2\Coding\typescript\typescript_framework\dist\typescript_framework.3464ddca.js133216849779069334 0
+58C:\Users\cody2\Coding\typescript\typescript_framework\dist133216849779119573 1
+64C:\Users\cody2\Coding\typescript\typescript_framework\index.html133216848633639896 0
+57C:\Users\cody2\Coding\typescript\typescript_framework\src133216848819961166 1
+66C:\Users\cody2\Coding\typescript\typescript_framework\src\index.ts133216848995285666 0
+80C:\Users\cody2\Coding\typescript\typescript_framework\dist\index.377278e2.js.map133216849778993154 0
+76C:\Users\cody2\Coding\typescript\typescript_framework\dist\index.377278e2.js133216849778982435 0
+69C:\Users\cody2\Coding\typescript\typescript_framework\dist\index.html133216849778564151 0
+95C:\Users\cody2\Coding\typescript\typescript_framework\dist\typescript_framework.3464ddca.js.map133216849779104485 0
