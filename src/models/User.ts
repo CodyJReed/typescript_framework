@@ -27,5 +27,11 @@ export class User {
     this.events[event] = handlers
   }
 
-  trigger(): void {}
+  trigger(event: string): void {
+    const handlers = this.events[event]
+
+    if (!handlers || !handlers.length) return
+
+    handlers.forEach(cb => cb())
+  }
 }
