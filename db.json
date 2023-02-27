@@ -11,49 +11,14 @@
       "id": 2
     },
     {
-      "name": "Indigo",
-      "age": 5,
       "id": 3
     },
     {
-      "name": "Indigo",
-      "age": 5,
+      "data": {
+        "name": "Scarlett",
+        "age": 48
+      },
       "id": 4
-    },
-    {
-      "name": "Indigo",
-      "age": 5,
-      "id": 5
-    },
-    {
-      "name": "Indigo",
-      "age": 5,
-      "id": 6
-    },
-    {
-      "name": "Indigo",
-      "age": 5,
-      "id": 7
-    },
-    {
-      "name": "Indigo",
-      "age": 5,
-      "id": 8
-    },
-    {
-      "name": "Indigo",
-      "age": 5,
-      "id": 9
-    },
-    {
-      "name": "Indigo",
-      "age": 5,
-      "id": 10
-    },
-    {
-      "name": "Indigo",
-      "age": 5,
-      "id": 11
     }
   ]
 }
