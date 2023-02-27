@@ -1,13 +1,6 @@
 import { User } from "./models/User";
 
-const user = new User({name: "cody", age: 38})
+const user = new User({id: 1})
 
-user.on("submit", () => {})
-user.on("click", () => {
-    console.log("change #2")
-})
+user.fetch()
 
-user.trigger("uwhwufih")
-
-
-console.log(user)
