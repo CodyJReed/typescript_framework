@@ -1,9 +1,13 @@
 import { User } from "./models/User";
 
-const user = new User({});
+const user = User.buildUser({name: 'phil cote', age: 0});
 
-user.attributes.set({ name: "Scarlett", age: 48 });
-user.sync.save(user.attributes);
+user.on('save', () => {
+    console.log(user)
+})
 
-user.events.on("click", () => console.log("it's working!!!"))
-user.events.trigger("click")
+user.on('error', () => {
+    console.log('error')
+})
+
+user.save()

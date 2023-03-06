@@ -2,8 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "cody",
-      "age": 38
+      "name": "newer name",
+      "age": 0
     },
     {
       "name": "Indigo",
@@ -19,6 +19,36 @@
         "age": 48
       },
       "id": 4
+    },
+    {
+      "name": "newer name",
+      "age": 0,
+      "id": 5
+    },
+    {
+      "name": "newer name",
+      "age": 0,
+      "id": 6
+    },
+    {
+      "name": "newer name",
+      "age": 0,
+      "id": 7
+    },
+    {
+      "name": "phil cote",
+      "age": 0,
+      "id": 8
+    },
+    {
+      "name": "phil cote",
+      "age": 0,
+      "id": 9
+    },
+    {
+      "name": "phil cote",
+      "age": 0,
+      "id": 10
     }
   ]
 }
