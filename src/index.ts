@@ -1,13 +1,8 @@
 import { User } from "./models/User";
+import { UserForm } from "./views/UserForm";
 
-const user = User.buildUser({name: 'phil cote', age: 0});
+const user = User.buildUser({name: "Bindhi", age: 42})
 
-user.on('save', () => {
-    console.log(user)
-})
+const userForm = new UserForm(document.getElementById('root')!, user)
 
-user.on('error', () => {
-    console.log('error')
-})
-
-user.save()
+userForm.render()
